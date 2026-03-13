@@ -13,3 +13,25 @@ Framework: Express.js
 Template Engine: EJS (or specify if different)
 
 Version Control: Git & GitHub
+
+⚙️ Installation and Setup
+
+1.  Clone the repository
+
+git clone https://github.com/your-username/Dynamic-Blogging-Web-Application.git
+
+2.  Navigate to the project directory
+
+cd Dynamic-Blogging-Web-Application
+
+3.  Install dependencies
+
+npm install
+
+4.  Run the application
+
+node app.js
+
+5.  Open in browser
+
+http://localhost:3000
