@@ -2,7 +2,7 @@
 📝 Dynamic Blogging Web Application
 
 A Dynamic Blogging Web Application that allows users to create, edit, and manage blog posts in real-time. The application provides an interactive interface where users can publish articles, read blogs, and manage content efficiently.
-🛠️ Technologies Used
+🛠️ Technologies Used : 
 
 Frontend: HTML, CSS, JavaScript
 
